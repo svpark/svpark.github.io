@@ -7,7 +7,7 @@ author_profile: true
 
 ## Statistical Methods and Research Design
 
-I have been a teaching assistant supporting undergraduate students' learning in statistical methods and research design for 4 years. As a Teaching Assistant for Statistical Methods I & II at York University, I was responsible for leading tutorials. This involved creating materials on topics on univariate parametric statistics (t-tests/ANOVA to regression). 
+I have been a Teaching Assistant (TA) supporting undergraduate students' learning in statistical methods and research design for 4 years. As a TA for Statistical Methods I & II at York University, I was responsible for leading tutorials. This involved creating materials on topics on univariate parametric statistics (t-tests/ANOVA to regression). 
 
 > These materials will be hosted here soon, but for now, feel free to reach out!  
 
